@@ -20,7 +20,7 @@ export default function MainContent() {
     }, []);
 
     const fetchData = async () => {
-        await fetch("https://servers.minetest.net/list")
+        await fetch("https://servers.luanti.org/list")
             .then(res => res.json())
             .then(data => {
                 setData(data);
