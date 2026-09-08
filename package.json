@@ -1,6 +1,6 @@
 {
-  "name": "mtlist",
-  "homepage": "https://realtechnerd.github.io/mtlist",
+  "name": "luanti-server-list",
+  "homepage": "https://realtechnerd.github.io/luanti-server-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
